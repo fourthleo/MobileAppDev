@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "Index2";
+}
+
+<h2>Sử dụng đối số của Action</h2>
+
+<h2>THÔNG TIN SINH VIÊN</h2>
+@using (Html.BeginForm("Register2", "SinhVien_23TH2525", FormMethod.Post))
+{
+    <table>
+        <tr>
+            <td><label for="Id">Mã sinh viên:</label></td>
+            <td><input type="text" name="Id" /></td>
+        </tr>
+        <tr>
+            <td><label for="Name">Họ và tên:</label></td>
+            <td><input type="text" name="Name" /></td>
+        </tr>
+        <tr>
+            <td><label for="Marks">Điểm:</label></td>
+            <td><input type="text" name="Marks" /></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><button type="submit">Đăng ký</button></td>
+        </tr>
+    </table>
+
+
+
+}

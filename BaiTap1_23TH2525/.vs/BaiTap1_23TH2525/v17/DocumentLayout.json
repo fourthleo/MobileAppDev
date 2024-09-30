@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|e:\\leo\\cntt\\phat trien ung dung web\\baitap1_23th2525\\baitap1_23th2525\\views\\pheptoan_23th2525\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|solutionrelative:baitap1_23th2525\\views\\pheptoan_23th2525\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\baitap1_23th2525\\controllers\\pheptoan_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|solutionrelative:baitap1_23th2525\\controllers\\pheptoan_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|e:\\leo\\cntt\\phat trien ung dung web\\baitap1_23th2525\\baitap1_23th2525\\views\\pheptoan_23th2525\\usearguments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|solutionrelative:baitap1_23th2525\\views\\pheptoan_23th2525\\usearguments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|e:\\leo\\cntt\\phat trien ung dung web\\baitap1_23th2525\\baitap1_23th2525\\models\\calmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|solutionrelative:baitap1_23th2525\\models\\calmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|e:\\leo\\cntt\\phat trien ung dung web\\baitap1_23th2525\\baitap1_23th2525\\views\\pheptoan_23th2525\\useformcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|solutionrelative:baitap1_23th2525\\views\\pheptoan_23th2525\\useformcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|e:\\leo\\cntt\\phat trien ung dung web\\baitap1_23th2525\\baitap1_23th2525\\views\\pheptoan_23th2525\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DD50A04-6E03-4CA4-8C49-296DA07FE13E}|BaiTap1_23TH2525\\BaiTap1_23TH2525.csproj|solutionrelative:baitap1_23th2525\\views\\pheptoan_23th2525\\userequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\Index.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\Index.cshtml",
+              "RelativeToolTip": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T05:11:53.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalModels.cs",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Models\\CalModels.cs",
+              "RelativeDocumentMoniker": "BaiTap1_23TH2525\\Models\\CalModels.cs",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Models\\CalModels.cs",
+              "RelativeToolTip": "BaiTap1_23TH2525\\Models\\CalModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:07:46.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UseFormCollection.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseFormCollection.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseFormCollection.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseFormCollection.cshtml",
+              "RelativeToolTip": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseFormCollection.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T05:05:36.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UseArguments.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseArguments.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseArguments.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseArguments.cshtml",
+              "RelativeToolTip": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseArguments.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T04:56:32.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UseRequest.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseRequest.cshtml",
+              "RelativeDocumentMoniker": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseRequest.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseRequest.cshtml",
+              "RelativeToolTip": "BaiTap1_23TH2525\\Views\\PhepToan_23TH2525\\UseRequest.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T15:33:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhepToan_23TH2525Controller.cs",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Controllers\\PhepToan_23TH2525Controller.cs",
+              "RelativeDocumentMoniker": "BaiTap1_23TH2525\\Controllers\\PhepToan_23TH2525Controller.cs",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\BaiTap1_23TH2525\\BaiTap1_23TH2525\\Controllers\\PhepToan_23TH2525Controller.cs",
+              "RelativeToolTip": "BaiTap1_23TH2525\\Controllers\\PhepToan_23TH2525Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:31:07.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
