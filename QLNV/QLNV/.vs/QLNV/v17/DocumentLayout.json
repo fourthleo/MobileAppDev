@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|e:\\leo\\cntt\\phat trien ung dung web\\qlnv\\qlnv\\qlnv\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\qlnv\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\views\\nhanviens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\qlnv\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E197669-C62A-482D-BF67-95658BFB92E4}|QLNV\\QLNV.csproj|solutionrelative:qlnv\\controllers\\nhanvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\QLNV\\Web.config",
+              "RelativeDocumentMoniker": "QLNV\\Web.config",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\QLNV\\Web.config",
+              "RelativeToolTip": "QLNV\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-14T12:14:35.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\QLNV\\Views\\NhanViens\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLNV\\Views\\NhanViens\\Index.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\QLNV\\Views\\NhanViens\\Index.cshtml",
+              "RelativeToolTip": "QLNV\\Views\\NhanViens\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T12:13:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanViensController.cs",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\QLNV\\Controllers\\NhanViensController.cs",
+              "RelativeDocumentMoniker": "QLNV\\Controllers\\NhanViensController.cs",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\QLNV\\QLNV\\QLNV\\Controllers\\NhanViensController.cs",
+              "RelativeToolTip": "QLNV\\Controllers\\NhanViensController.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAswNMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T12:13:49.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

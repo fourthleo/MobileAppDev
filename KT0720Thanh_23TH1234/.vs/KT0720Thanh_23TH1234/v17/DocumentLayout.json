@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\kt0720thanh_23th1234\\controllers\\sinhviens0720_23th1234controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\controllers\\sinhviens0720_23th1234controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|e:\\leo\\cntt\\phat trien ung dung web\\kt0720thanh_23th1234\\kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\gioithieu_23th1234.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\views\\sinhviens0720_23th1234\\gioithieu_23th1234.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\kt0720thanh_23th1234\\models\\model_23th1234.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{99D8F2B1-BA71-4D3F-A73D-96A1F5DC1423}|KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234.csproj|solutionrelative:kt0720thanh_23th1234\\models\\model_23th1234.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Details.cshtml",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Details.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Details.cshtml",
+              "RelativeToolTip": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:30:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Edit.cshtml",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Edit.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Edit.cshtml",
+              "RelativeToolTip": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-21T14:30:42.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Create.cshtml",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Create.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Create.cshtml",
+              "RelativeToolTip": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-21T14:30:42.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GioiThieu_23TH1234.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\GioiThieu_23TH1234.cshtml",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\GioiThieu_23TH1234.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\GioiThieu_23TH1234.cshtml",
+              "RelativeToolTip": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\GioiThieu_23TH1234.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-09-21T14:30:42.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Index.cshtml",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Index.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Index.cshtml",
+              "RelativeToolTip": "KT0720Thanh_23TH1234\\Views\\SinhViens0720_23TH1234\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-21T14:30:42.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhViens0720_23TH1234Controller.cs",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Controllers\\SinhViens0720_23TH1234Controller.cs",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Controllers\\SinhViens0720_23TH1234Controller.cs",
+              "ToolTip": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Controllers\\SinhViens0720_23TH1234Controller.cs",
+              "RelativeToolTip": "KT0720Thanh_23TH1234\\Controllers\\SinhViens0720_23TH1234Controller.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAwD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:30:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model_23TH1234.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\phat trien ung dung web\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Models\\Model_23TH1234.edmx",
+              "RelativeDocumentMoniker": "KT0720Thanh_23TH1234\\Models\\Model_23TH1234.edmx",
+              "ToolTip": "E:\\Bai SV\\CC23\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Models\\Model_23TH1234.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\Bai SV\\CC23\\KT0720Thanh_23TH1234\\KT0720Thanh_23TH1234\\Models\\Model_23TH1234.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-09-21T14:30:42.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
