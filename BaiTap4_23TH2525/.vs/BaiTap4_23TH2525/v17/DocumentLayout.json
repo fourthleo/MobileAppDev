@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\views\\guiemail_23th2525\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\views\\guiemail_23th2525\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\controllers\\guiemail_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\controllers\\guiemail_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|d:\\data\\truong\\cntt\\phat trien ung dung web\\baitap4_23th2525\\baitap4_23th2525\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4D31FD-A2F3-4D73-8F3B-2D89C5366A43}|BaiTap4_23TH2525\\BaiTap4_23TH2525.csproj|solutionrelative:baitap4_23th2525\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:22:26.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T02:05:51.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T02:03:42.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T02:02:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T01:57:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\GuiEmail_23TH2525\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Views\\GuiEmail_23TH2525\\Index.cshtml",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Views\\GuiEmail_23TH2525\\Index.cshtml",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Views\\GuiEmail_23TH2525\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T01:46:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuiEmail_23TH2525Controller.cs",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:40:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailInfo.cs",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Models\\MailInfo.cs",
+              "RelativeDocumentMoniker": "BaiTap4_23TH2525\\Models\\MailInfo.cs",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\Phat trien ung dung web\\BaiTap4_23TH2525\\BaiTap4_23TH2525\\Models\\MailInfo.cs",
+              "RelativeToolTip": "BaiTap4_23TH2525\\Models\\MailInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:39:23.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
