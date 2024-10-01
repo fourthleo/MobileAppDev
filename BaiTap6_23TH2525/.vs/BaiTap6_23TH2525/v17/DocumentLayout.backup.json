@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATA\\TRUONG\\CNTT\\LapTrinhThietBiDiDong\\Workspace\\WebAppDev\\BaiTap6_23TH2525\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90EDCA06-B295-4404-B131-3C31C18F4CF4}|BaiTap6_23TH2525\\BaiTap6_23TH2525.csproj|d:\\data\\truong\\cntt\\laptrinhthietbididong\\workspace\\webappdev\\baitap6_23th2525\\baitap6_23th2525\\modelqlnv_23th2525.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{90EDCA06-B295-4404-B131-3C31C18F4CF4}|BaiTap6_23TH2525\\BaiTap6_23TH2525.csproj|solutionrelative:baitap6_23th2525\\modelqlnv_23th2525.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelQLNV_23TH2525.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\DATA\\TRUONG\\CNTT\\LapTrinhThietBiDiDong\\Workspace\\WebAppDev\\BaiTap6_23TH2525\\BaiTap6_23TH2525\\ModelQLNV_23TH2525.edmx",
+              "RelativeDocumentMoniker": "BaiTap6_23TH2525\\ModelQLNV_23TH2525.edmx",
+              "ToolTip": "D:\\DATA\\TRUONG\\CNTT\\LapTrinhThietBiDiDong\\Workspace\\WebAppDev\\BaiTap6_23TH2525\\BaiTap6_23TH2525\\ModelQLNV_23TH2525.edmx [Diagram1]",
+              "RelativeToolTip": "BaiTap6_23TH2525\\ModelQLNV_23TH2525.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-01T08:41:32.242Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
