@@ -1,0 +1,32 @@
+﻿@model BaiTap6_23TH2525.PhongBan
+
+@{
+    ViewBag.Title = "Xoá Phòng ban";
+}
+
+<h2>Xoá Phòng ban</h2>
+
+<h3>Bạn có chắc là muốn xoá phòng ban này?</h3>
+<div>
+    <h4>Phòng ban</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TenPB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenPB)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

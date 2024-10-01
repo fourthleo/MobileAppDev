@@ -130,6 +130,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NhanViens_23TH2525Controller.cs" />
+    <Compile Include="Controllers\PhongBans_23TH2525Controller.cs" />
+    <Compile Include="Controllers\TimKiem_23TH2525Controller.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -224,10 +227,21 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\NhanViens_23TH2525\Create.cshtml" />
+    <Content Include="Views\NhanViens_23TH2525\Delete.cshtml" />
+    <Content Include="Views\NhanViens_23TH2525\Details.cshtml" />
+    <Content Include="Views\NhanViens_23TH2525\Edit.cshtml" />
+    <Content Include="Views\NhanViens_23TH2525\Index.cshtml" />
+    <Content Include="Views\PhongBans_23TH2525\Create.cshtml" />
+    <Content Include="Views\PhongBans_23TH2525\Delete.cshtml" />
+    <Content Include="Views\PhongBans_23TH2525\Details.cshtml" />
+    <Content Include="Views\PhongBans_23TH2525\Edit.cshtml" />
+    <Content Include="Views\PhongBans_23TH2525\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\TimKiem_23TH2525\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
