@@ -1,0 +1,88 @@
+﻿@model BaiTap6_23TH2525.NhanVien
+
+@{
+    ViewBag.Title = "Xoá nhân viên";
+}
+
+<h2>Xoá nhân viên</h2>
+
+<h3>Bạn có chắc là muốn xoá nhân viên này không?</h3>
+<div>
+    <h4>Thông tin nhân viên</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HoNV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HoNV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TenNV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenNV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GioiTinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GioiTinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgaySinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgaySinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Luong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Luong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnhNV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnhNV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiaChi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PhongBan.TenPB)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PhongBan.TenPB)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
