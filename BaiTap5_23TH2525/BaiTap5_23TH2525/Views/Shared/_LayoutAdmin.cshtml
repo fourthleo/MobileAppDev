@@ -15,9 +15,9 @@
     <div id="banner"><img src=@ViewBag.image /></div>
     <div id="menu">
         <div>
-            @Html.ActionLink("TRANG CHỦ", "Index", "Home/Index", htmlAttributes: new { @class = "a" }) &nbsp;|&nbsp;
-            @Html.ActionLink("ĐĂNG KÝ", "RegisterEmp", "Home/RegisterEmp", new { @class = "a" })&nbsp;|&nbsp;
-            @Html.ActionLink("GỬI EMAIL", "SendMail", "GuiEmail_23TH2525/SendMail", new { @class = "a" }) &nbsp;|&nbsp;
+            @Html.ActionLink("TRANG CHỦ", "Index", "", htmlAttributes: new { @class = "a" }) &nbsp;|&nbsp;
+            @Html.ActionLink("ĐĂNG KÝ", "RegisterEMP", "Home/RegisterEMP", new { @class = "a" })&nbsp;|&nbsp;
+            @Html.ActionLink("GỬI EMAIL", "SendMail", "Home/SendMail", new { @class = "a" }) &nbsp;|&nbsp;
             @Html.ActionLink("THAY ĐỔI BANNER", "ChangeBanner", "Home/ChangeBanner", new { @class = "a" })
             <hr style="margin-top:0px;" />
         </div>
@@ -29,4 +29,6 @@
         Copyright &copy; @DateTime.Now.Year
     </div>
 </body>
+@RenderSection("Scripts", required: false)
+
 </html>

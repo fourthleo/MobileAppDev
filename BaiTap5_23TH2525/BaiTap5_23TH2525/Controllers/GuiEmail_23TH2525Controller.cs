@@ -6,7 +6,7 @@ using System.Net.Mail;
 using System.Web;
 using System.Web.Mvc;
 
-namespace BaiTap4_23TH2525.Controllers
+namespace BaiTap5_23TH2525.Controllers
 {
     public class GuiEmail_23TH2525Controller : Controller
     {

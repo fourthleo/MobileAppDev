@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|e:\\leo\\cntt\\workspace\\webappdev\\baitap5_23th2525\\baitap5_23th2525\\views\\guiemail_23th2525\\sendmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\views\\guiemail_23th2525\\sendmail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|e:\\leo\\cntt\\workspace\\webappdev\\baitap5_23th2525\\baitap5_23th2525\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|e:\\leo\\cntt\\workspace\\webappdev\\baitap5_23th2525\\baitap5_23th2525\\views\\home\\registeremp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\views\\home\\registeremp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\baitap5_23th2525\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|e:\\leo\\cntt\\workspace\\webappdev\\baitap5_23th2525\\baitap5_23th2525\\controllers\\guiemail_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\controllers\\guiemail_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|e:\\leo\\cntt\\workspace\\webappdev\\baitap5_23th2525\\baitap5_23th2525\\controllers\\changebanner_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\controllers\\changebanner_23th2525controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\baitap5_23th2525\\views\\changebanner_23th2525\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{69F7F142-DAEF-40D9-B614-811BA82E28A3}|BaiTap5_23TH2525\\BaiTap5_23TH2525.csproj|solutionrelative:baitap5_23th2525\\views\\changebanner_23th2525\\changebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterEMP.cshtml",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\Home\\RegisterEMP.cshtml",
+              "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Views\\Home\\RegisterEMP.cshtml",
+              "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\Home\\RegisterEMP.cshtml",
+              "RelativeToolTip": "BaiTap5_23TH2525\\Views\\Home\\RegisterEMP.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T15:00:29.396Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,72 +49,33 @@
               "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap5_23TH2525\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T13:33:23.307Z",
+              "WhenOpened": "2024-09-30T14:59:48.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SendMail.cshtml",
-              "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\GuiEmail_23TH2525\\SendMail.cshtml",
-              "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Views\\GuiEmail_23TH2525\\SendMail.cshtml",
-              "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\GuiEmail_23TH2525\\SendMail.cshtml",
-              "RelativeToolTip": "BaiTap5_23TH2525\\Views\\GuiEmail_23TH2525\\SendMail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T13:27:23.861Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTap5_23TH2525\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T14:17:28.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GuiEmail_23TH2525Controller.cs",
-              "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
-              "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
-              "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
-              "RelativeToolTip": "BaiTap5_23TH2525\\Controllers\\GuiEmail_23TH2525Controller.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBUAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:25:06.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChangeBanner.cshtml",
-              "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\ChangeBanner_23TH2525\\ChangeBanner.cshtml",
-              "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Views\\ChangeBanner_23TH2525\\ChangeBanner.cshtml",
-              "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\ChangeBanner_23TH2525\\ChangeBanner.cshtml",
-              "RelativeToolTip": "BaiTap5_23TH2525\\Views\\ChangeBanner_23TH2525\\ChangeBanner.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T13:44:08.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChangeBanner_23TH2525Controller.cs",
-              "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Controllers\\ChangeBanner_23TH2525Controller.cs",
-              "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Controllers\\ChangeBanner_23TH2525Controller.cs",
-              "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Controllers\\ChangeBanner_23TH2525Controller.cs",
-              "RelativeToolTip": "BaiTap5_23TH2525\\Controllers\\ChangeBanner_23TH2525Controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:38:24.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "BaiTap5_23TH2525\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ToolTip": "E:\\Leo\\CNTT\\workspace\\WebAppDev\\BaiTap5_23TH2525\\BaiTap5_23TH2525\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "BaiTap5_23TH2525\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-13T13:30:36.279Z",
               "EditorCaption": ""

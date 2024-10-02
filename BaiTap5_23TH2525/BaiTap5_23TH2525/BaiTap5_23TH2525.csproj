@@ -123,9 +123,11 @@
     <Compile Include="Controllers\ChangeBanner_23TH2525Controller.cs" />
     <Compile Include="Controllers\GuiEmail_23TH2525Controller.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\NhanVien_23TH2525Controller.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\EMPModel.cs" />
     <Compile Include="Models\MailInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -148,6 +150,7 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\StyleAdmin.css" />
+    <Content Include="emp.txt" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -185,6 +188,12 @@
     <Content Include="Views\Shared\_LayoutAdmin.cshtml" />
     <Content Include="Views\ChangeBanner_23TH2525\ChangeBanner.cshtml" />
     <Content Include="Views\GuiEmail_23TH2525\SendMail.cshtml" />
+    <Content Include="Views\Home\SendMail.cshtml" />
+    <Content Include="Views\Home\ChangeBanner.cshtml" />
+    <Content Include="Views\NhanVien_23TH2525\RegisterEMP.cshtml" />
+    <Content Include="Views\NhanVien_23TH2525\Confirm.cshtml" />
+    <Content Include="Views\Home\RegisterEMP.cshtml" />
+    <Content Include="Views\Home\Confirm.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -7,20 +7,12 @@ using System.Web.Mvc;
 
 namespace BaiTap5_23TH2525.Controllers
 {
-    public class HomeController : Controller
+    public class NhanVien_23TH2525Controller : Controller
     {
-        public ActionResult Index()
-        {
-            return View();
-        }
-        public ActionResult SendMail()
-        {
-            ViewBag.Message = "Gửi Email";
-            return View();
-        }
+        
+        // GET: NhanVien_23TH2525
         public ActionResult RegisterEMP()
         {
-            ViewBag.Message = "Thông tin đăng ký";
             return View();
         }
         [HttpPost]
@@ -51,23 +43,7 @@ namespace BaiTap5_23TH2525.Controllers
         {
             return View();
         }
-        public ActionResult ChangeBanner()
-        {
-            ViewBag.Message = "Thay đổi Banner";
-            return View();
-        }
-        public ActionResult About()
-        {
-            ViewBag.Message = "Trang thông tin cá nhân";
 
-            return View();
-        }
 
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Thông tin liên hệ.";
-
-            return View();
-        }
     }
 }
